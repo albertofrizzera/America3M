@@ -23,7 +23,7 @@ More specifically, the dataset is composed of:
 <img src="assets/images.png" width="700"/>
 
 # Download
-The dataset can be downloaded with Google Drive [here](https://drive.google.com/drive/folders/1rfY6lqjPy-CwXHkaCMD_H04zCvb-9lXv?usp=sharing). The entire dataset is 1TB large. However, you can download each American state separately and extract each archive with optmiized tools such as ```pigz``` in order to speed up the process.
+The dataset will be available soon in a Google Drive folder. The entire dataset is 1TB large. However, you can download each American state separately and extract each archive with optmiized tools such as ```pigz``` in order to speed up the process.
 
 # Data collection
 We leverage the OpenStreetMap (OSM) database to collect metadata about locations of interest and Google Earth Engine (GEE) to collect images over the selected locations. In this study, we focused only on regions of interest (ROIs) in the United States, and used satellite imagery provided through
