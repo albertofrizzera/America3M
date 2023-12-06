@@ -15,7 +15,7 @@ Riccardo Ricci, riccardo.ricci@unitn.it
 With this repository, we publish the America3M dataset which consists of 3 million satellite images from aerial imagery labeled with classes and synthetic captions.
 
 More specifically, the dataset is composed of:
-- 3M RGB images from the [NAIP program imagery](https://developers.google.com/earth-engine/datasets/catalog/USDA_NAIP_DOQQ)
+- 3 million RGB images from the [NAIP program imagery](https://developers.google.com/earth-engine/datasets/catalog/USDA_NAIP_DOQQ)
 - 30 class labels from OSM
 - 7 synthetic captions per image
 - binary masks of the main objects in the images
